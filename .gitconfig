@@ -1,0 +1,12 @@
+[user]
+  name = Sk37ch
+  email = volcom_stone99@hotmail.com
+[alias]
+  lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
+[color]
+  branch      = auto
+  diff        = auto
+  interactive = auto
+  status      = auto  
+[push]
+	default = simple
